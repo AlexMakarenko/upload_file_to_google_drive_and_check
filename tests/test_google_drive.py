@@ -2,8 +2,8 @@ from config import BASE_DIR
 from helpers.google_drive_helper import GoogleDriveApi, GoogleDriveUi
 
 #   google account credentials
-GOOGLE_EMAIL = 'otutoso@gmail.com'
-PASSWORD = 'qweqwe11'
+GOOGLE_EMAIL = 'EMAIL'
+PASSWORD = 'PASSWORD'
 PATH_TO_FILE = '{}/test_data/HelloWorld.txt'.format(BASE_DIR)
 
 
